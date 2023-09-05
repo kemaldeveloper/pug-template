@@ -1,0 +1,25 @@
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+.jshintrc
+# Css files
+app/css/
+
+# files
+app/js/libs.min.js
+app/js/main.bundle.js
+app/js/vendors.bundle.js.LICENSE.txt
+# html
+app/*.html
+/dist
+/build
+
+# misc
+.DS_Store
+.env
+.env.development
